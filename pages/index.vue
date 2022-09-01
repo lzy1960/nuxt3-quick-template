@@ -1,5 +1,5 @@
 <template>
-  <div class="default-page">
+  <div py-10 px-10>
     default page
   </div>
 </template>
