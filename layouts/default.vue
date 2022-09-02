@@ -1,7 +1,9 @@
 <template>
   <div text-center>
-    <slot></slot>
-    <p color-gray text-sm>[ Default Layout ]</p>
+    <slot />
+    <p color-gray text-sm>
+      [ Default Layout ]
+    </p>
   </div>
 </template>
 

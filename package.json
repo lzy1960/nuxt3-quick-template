@@ -4,9 +4,13 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "lint": "eslint ."
   },
   "devDependencies": {
+    "@lzy1960/eslint-config": "^0.0.6",
+    "@lzy1960/eslint-config-basic": "^0.0.6",
+    "@lzy1960/eslint-config-vue": "^0.0.6",
     "@nuxtjs/color-mode": "^3.1.4",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",

@@ -1,7 +1,7 @@
 <template>
   <div>
     this is custom layout
-    <slot></slot>
+    <slot />
   </div>
 </template>
 

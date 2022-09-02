@@ -5,4 +5,11 @@
 </template>
 
 <script lang="ts" setup>
+let obj = {
+  name: 'zs',
+  age: 18,
+}
+function test () {
+  console.log('test')
+}
 </script>
