@@ -1,6 +1,7 @@
 <template>
   <div text-center>
     <slot />
+    <Footer />
     <p color-gray text-sm>
       [ Default Layout ]
     </p>

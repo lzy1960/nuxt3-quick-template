@@ -18,4 +18,9 @@ body,
   margin: 0;
   padding: 0
 }
+
+html.dark {
+  background-color: #222;
+  color: white;
+}
 </style>
