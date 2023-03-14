@@ -1,10 +1,11 @@
 <template>
-  <div text-center>
+  <div
+    text-center
+    flex
+    flex-col
+  >
     <slot />
     <Footer />
-    <p color-gray text-sm>
-      [ Default Layout ]
-    </p>
   </div>
 </template>
 
